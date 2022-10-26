@@ -1,4 +1,4 @@
-# Evaluation Metrics Used For The Performance Evaluation of Voice Conversion VC Models
+# An Analysis of Performance Evaluation Metrics for Voice Conversion Models
 
 <p align="center">
     <strong>Authors</strong>
